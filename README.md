@@ -2,7 +2,7 @@
 
 # CSS Issue Bot 9000
 
-Bleep bloop, please help Issue Bot 9000 solve all CSS validation errors using the W3C Jigsaw CSS validator.
+Bleep bloop, please help Issue Bot 9000 solve all CSS validation error using the W3C Jigsaw CSS validator.
 
 ## Steps
 
